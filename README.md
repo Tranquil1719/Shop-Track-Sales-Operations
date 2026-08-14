@@ -45,9 +45,9 @@ The following activities were carried out using Microsoft Excel:
 - Organized the cleaned data into an Excel Table
 - Prepared the dataset for PivotTable analysis and dashboard development
 
-### 📌 Data Cleaning Screenshot
+### 📌 Cleaned Data
 
-![Screenshot 2026-08-14 114653.png]
+![Cleaned Data](Screenshot%202026-08-14%20114653.png)
 
 ---
 
@@ -71,11 +71,9 @@ The PivotTable analysis covered:
 
 The PivotTables provided the foundation for the charts, KPIs, and analysis presented in the final dashboard.
 
-### 📌 PivotTable Screenshots
+### 📌 PivotTable Analysis
 
-[Insert PivotTable Screenshot Here]
-
-[Insert Additional PivotTable Screenshot Here]
+![PivotTable Analysis](Screenshot%202026-08-14%20114728.png)
 
 ---
 
@@ -123,9 +121,9 @@ Orders were analyzed according to their status:
 - Cancelled
 - Refunded
 
-### 📌 Dashboard Screenshot
+### 📌 Dashboard
 
-[Insert Dashboard Screenshot Here]
+![ShopTrack Sales and Operations Dashboard](Screenshot%202026-07-16%20114816.png)
 
 ---
 
